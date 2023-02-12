@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Reverse IoU threshold for NMS docs descriptions (#9151)
